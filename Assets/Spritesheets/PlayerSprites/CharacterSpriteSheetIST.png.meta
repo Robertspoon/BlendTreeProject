@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1a19ec7da4b417c418edb2336845a3bb
+guid: 0d98f7134d3f7ea4a98d37b2dd38c410
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -104,7 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_0
+      name: CharacterSpriteSheetIST_0
       rect:
         serializedVersion: 2
         x: 0
@@ -118,14 +118,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cbb096194cd9b549b447213a3b92f79
-      internalID: -867288038
+      spriteID: a2abd90be1044e743a65d2917e9b50f9
+      internalID: 596226180
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_1
+      name: CharacterSpriteSheetIST_1
       rect:
         serializedVersion: 2
         x: 32
@@ -139,14 +139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f277dd80ab9d094e8f08908d6bd300e
-      internalID: -1008107477
+      spriteID: d92a97bb70e852b4cb9c6d1dfc53f375
+      internalID: -1961161507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_2
+      name: CharacterSpriteSheetIST_2
       rect:
         serializedVersion: 2
         x: 64
@@ -160,14 +160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c881ef45b8a08b449aec6bcbd4667d0a
-      internalID: -1049312553
+      spriteID: c952cdb1333939141905b0297e77a109
+      internalID: -8285251
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_3
+      name: CharacterSpriteSheetIST_3
       rect:
         serializedVersion: 2
         x: 96
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 077169d1632b27b43ab173c2d25f9eeb
-      internalID: -563233244
+      spriteID: 2a6778795867bc14680635bf38eb6ec5
+      internalID: 1705908530
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_4
+      name: CharacterSpriteSheetIST_4
       rect:
         serializedVersion: 2
         x: 0
@@ -202,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9039eaf45fb88934e8ef5c2c5ca92863
-      internalID: 1309405171
+      spriteID: b80272a9d67bea74f8c258fd6552df6b
+      internalID: 516366503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_5
+      name: CharacterSpriteSheetIST_5
       rect:
         serializedVersion: 2
         x: 32
@@ -223,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9348cabf10144d846b44503275502121
-      internalID: -1634058643
+      spriteID: f900ddfd64db79440854daa416f68928
+      internalID: 1931222908
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_6
+      name: CharacterSpriteSheetIST_6
       rect:
         serializedVersion: 2
         x: 64
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b35e307e0ff358946953f929c0605c6c
-      internalID: 442451677
+      spriteID: aa78273720b80914d9b8165dbcccafc1
+      internalID: -1877606446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_7
+      name: CharacterSpriteSheetIST_7
       rect:
         serializedVersion: 2
         x: 96
@@ -265,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed6602dbfb1b0464389561d4fe86c858
-      internalID: -558502527
+      spriteID: f84c6e60fac612a479cba789a2174ffb
+      internalID: 1271908677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_8
+      name: CharacterSpriteSheetIST_8
       rect:
         serializedVersion: 2
         x: 128
@@ -286,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5ef6c9286cac9a4ead1675cc3aa98c8
-      internalID: -252548319
+      spriteID: a4200c297fe3f8443af1cbed7b8c2ef1
+      internalID: 916849117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_9
+      name: CharacterSpriteSheetIST_9
       rect:
         serializedVersion: 2
         x: 160
@@ -307,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35eaf54a603d18148ad6a125375af213
-      internalID: -1463954142
+      spriteID: 700f116260920124696af657b7c13c36
+      internalID: 706292632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_10
+      name: CharacterSpriteSheetIST_10
       rect:
         serializedVersion: 2
         x: 192
@@ -328,14 +328,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbbe505ce0585cc47a6e979c0598e90c
-      internalID: -883897908
+      spriteID: 44e53cb91e37a994d84024adf6146231
+      internalID: -737583741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_11
+      name: CharacterSpriteSheetIST_11
       rect:
         serializedVersion: 2
         x: 224
@@ -349,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8328bb77a4a1dbd41857a59e11aa0561
-      internalID: 1437680510
+      spriteID: ab8598b60e5c4e24487af152834f5611
+      internalID: 1184172334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_12
+      name: CharacterSpriteSheetIST_12
       rect:
         serializedVersion: 2
         x: 0
@@ -370,14 +370,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb7896ed1384cb242b4c9492d0604fee
-      internalID: -2062111495
+      spriteID: 70badee885c66d74e80fcd234e4b3dea
+      internalID: -491833615
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_13
+      name: CharacterSpriteSheetIST_13
       rect:
         serializedVersion: 2
         x: 32
@@ -391,14 +391,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c849fab05f4c6e248b7392975a11c1d5
-      internalID: 1981457708
+      spriteID: 946d8011ffd92194c8fed364c800f7bd
+      internalID: -856171526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_14
+      name: CharacterSpriteSheetIST_14
       rect:
         serializedVersion: 2
         x: 64
@@ -412,14 +412,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22073acf55e13284e9c2c90c9b2619ee
-      internalID: -778460128
+      spriteID: 51a1da20a261dd44da6c28786a5fdf4d
+      internalID: 964076428
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_15
+      name: CharacterSpriteSheetIST_15
       rect:
         serializedVersion: 2
         x: 96
@@ -433,14 +433,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d773760bf6abe54da438ba65eab92c7
-      internalID: 282444632
+      spriteID: 13225e002af641d48be5d6b0642c9f12
+      internalID: -1845995223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_16
+      name: CharacterSpriteSheetIST_16
       rect:
         serializedVersion: 2
         x: 128
@@ -454,14 +454,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53b184f8f09d7dd4cb58c977635a248a
-      internalID: 16552676
+      spriteID: da9c501139e27dc49b76fb34319a45a2
+      internalID: -1749689796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_17
+      name: CharacterSpriteSheetIST_17
       rect:
         serializedVersion: 2
         x: 160
@@ -475,14 +475,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b30d97e0119bb54181eae2c866e6c4a
-      internalID: 136512777
+      spriteID: f555df59e62e3b44ab086971d95fe77f
+      internalID: 994314202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_18
+      name: CharacterSpriteSheetIST_18
       rect:
         serializedVersion: 2
         x: 192
@@ -496,14 +496,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51e18d45fbd24ea488fece82382b9672
-      internalID: 1174081477
+      spriteID: a8b28a9aba2c19a4d93d8db76e938579
+      internalID: -1096473330
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_19
+      name: CharacterSpriteSheetIST_19
       rect:
         serializedVersion: 2
         x: 224
@@ -517,14 +517,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9243c3e9e014e3a4a8a466e368c713ba
-      internalID: -36219177
+      spriteID: e8ebae4d4552a424f8d6487ca3f40848
+      internalID: 430073675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_20
+      name: CharacterSpriteSheetIST_20
       rect:
         serializedVersion: 2
         x: 0
@@ -538,14 +538,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b62f89397d362640a83b8976201f275
-      internalID: -1458410546
+      spriteID: 15ea0210b9f3b544ca634f4f0cdfb61b
+      internalID: -1694955334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_21
+      name: CharacterSpriteSheetIST_21
       rect:
         serializedVersion: 2
         x: 32
@@ -559,14 +559,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 424c435bcd0e2c84896fa729d2d7f678
-      internalID: 1198407709
+      spriteID: 679187b9bd6102343837504ad0be86bc
+      internalID: -2040876937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_22
+      name: CharacterSpriteSheetIST_22
       rect:
         serializedVersion: 2
         x: 64
@@ -580,14 +580,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2150a3275a7dc44eafaf955285f9f51
-      internalID: -1483981764
+      spriteID: f1dfc23e883712f46b8df55726bf8d01
+      internalID: -89628617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_23
+      name: CharacterSpriteSheetIST_23
       rect:
         serializedVersion: 2
         x: 96
@@ -601,14 +601,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c46919d300bd37468353820dc33bd59
-      internalID: -27874155
+      spriteID: cf152c98653435e4b81e5fa02101f8ca
+      internalID: 5012759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_24
+      name: CharacterSpriteSheetIST_24
       rect:
         serializedVersion: 2
         x: 128
@@ -622,14 +622,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad85777cb2e7b6d4794c79f0fdfff33b
-      internalID: 464007317
+      spriteID: cca49a4b40530534bbfdf617850355d8
+      internalID: 1591027263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_25
+      name: CharacterSpriteSheetIST_25
       rect:
         serializedVersion: 2
         x: 160
@@ -643,14 +643,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e05dd0628aa6d1f4489003a2000bf36f
-      internalID: 1591335450
+      spriteID: 0c8ebf99e05a05f4d91af3c61e70e721
+      internalID: 2009932174
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_26
+      name: CharacterSpriteSheetIST_26
       rect:
         serializedVersion: 2
         x: 192
@@ -664,14 +664,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 159d0447315db8e479e387e956da7825
-      internalID: -164416568
+      spriteID: e89d8426561fed348bc7c8b9948d5ce3
+      internalID: -1087567094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_27
+      name: CharacterSpriteSheetIST_27
       rect:
         serializedVersion: 2
         x: 224
@@ -685,14 +685,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d1054cf3c2c68145b6f895fcdacf840
-      internalID: -182228411
+      spriteID: 8a1b28a9d1c174e4985e79c4e3cb6e70
+      internalID: 1836748934
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_28
+      name: CharacterSpriteSheetIST_28
       rect:
         serializedVersion: 2
         x: 0
@@ -706,14 +706,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 946f08292f0dde043ba7c5b7eb87c81f
-      internalID: -2063216714
+      spriteID: 0416c8350085cd34cab5486d39089e88
+      internalID: -1689600657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_29
+      name: CharacterSpriteSheetIST_29
       rect:
         serializedVersion: 2
         x: 32
@@ -727,14 +727,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60174b9ec00d89e48a3ba77c662649c2
-      internalID: 65216556
+      spriteID: 42214267f77a3934288cee318aea7b3c
+      internalID: 1839313377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_30
+      name: CharacterSpriteSheetIST_30
       rect:
         serializedVersion: 2
         x: 64
@@ -748,14 +748,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4eb57f5f9bffaab4facd4755b2bffb41
-      internalID: 1884670213
+      spriteID: 3c999a5e428dc744489c143e2ad4d9e0
+      internalID: 1362207013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_31
+      name: CharacterSpriteSheetIST_31
       rect:
         serializedVersion: 2
         x: 96
@@ -769,14 +769,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 469c8b142e949734491fc9b2b211e902
-      internalID: 1352274121
+      spriteID: 699e0d12fd544dd4b8958884aa900713
+      internalID: 830587940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_32
+      name: CharacterSpriteSheetIST_32
       rect:
         serializedVersion: 2
         x: 128
@@ -790,14 +790,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc8b2577d2d122f4c9f31b93148eb03f
-      internalID: -2104344311
+      spriteID: 721780ceecf74994d9d5e7083b76e7a8
+      internalID: -2086624113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_33
+      name: CharacterSpriteSheetIST_33
       rect:
         serializedVersion: 2
         x: 160
@@ -811,14 +811,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d3cdd45ecbbc5d4691c2c5be48965a2
-      internalID: 665593817
+      spriteID: f094b883f324c074d93e24a6664fb64d
+      internalID: -730619525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_34
+      name: CharacterSpriteSheetIST_34
       rect:
         serializedVersion: 2
         x: 192
@@ -832,14 +832,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9c0a7821f8e4d844b46a9c28737c4ff
-      internalID: 510316463
+      spriteID: 027095a087115d24aa39cc1869ab63aa
+      internalID: -1561921092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CharacterSpriteSheet_Robert_Atkinson_35
+      name: CharacterSpriteSheetIST_35
       rect:
         serializedVersion: 2
         x: 224
@@ -853,8 +853,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0548118fbabade141993b2ebf3ff5e7a
-      internalID: -151031639
+      spriteID: 8e9f73c1359abac4a88e9e6a2cb71108
+      internalID: -1296345965
       vertices: []
       indices: 
       edges: []
@@ -870,42 +870,42 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      CharacterSpriteSheet_Robert_Atkinson_25: 1591335450
-      CharacterSpriteSheet_Robert_Atkinson_3: -563233244
-      CharacterSpriteSheet_Robert_Atkinson_14: -778460128
-      CharacterSpriteSheet_Robert_Atkinson_6: 442451677
-      CharacterSpriteSheet_Robert_Atkinson_5: -1634058643
-      CharacterSpriteSheet_Robert_Atkinson_8: -252548319
-      CharacterSpriteSheet_Robert_Atkinson_30: 1884670213
-      CharacterSpriteSheet_Robert_Atkinson_17: 136512777
-      CharacterSpriteSheet_Robert_Atkinson_32: -2104344311
-      CharacterSpriteSheet_Robert_Atkinson_34: 510316463
-      CharacterSpriteSheet_Robert_Atkinson_33: 665593817
-      CharacterSpriteSheet_Robert_Atkinson_24: 464007317
-      CharacterSpriteSheet_Robert_Atkinson_2: -1049312553
-      CharacterSpriteSheet_Robert_Atkinson_31: 1352274121
-      CharacterSpriteSheet_Robert_Atkinson_0: -867288038
-      CharacterSpriteSheet_Robert_Atkinson_15: 282444632
-      CharacterSpriteSheet_Robert_Atkinson_4: 1309405171
-      CharacterSpriteSheet_Robert_Atkinson_10: -883897908
-      CharacterSpriteSheet_Robert_Atkinson_21: 1198407709
-      CharacterSpriteSheet_Robert_Atkinson_18: 1174081477
-      CharacterSpriteSheet_Robert_Atkinson_22: -1483981764
-      CharacterSpriteSheet_Robert_Atkinson_23: -27874155
-      CharacterSpriteSheet_Robert_Atkinson_7: -558502527
-      CharacterSpriteSheet_Robert_Atkinson_11: 1437680510
-      CharacterSpriteSheet_Robert_Atkinson_19: -36219177
-      CharacterSpriteSheet_Robert_Atkinson_29: 65216556
-      CharacterSpriteSheet_Robert_Atkinson_26: -164416568
-      CharacterSpriteSheet_Robert_Atkinson_27: -182228411
-      CharacterSpriteSheet_Robert_Atkinson_20: -1458410546
-      CharacterSpriteSheet_Robert_Atkinson_9: -1463954142
-      CharacterSpriteSheet_Robert_Atkinson_12: -2062111495
-      CharacterSpriteSheet_Robert_Atkinson_28: -2063216714
-      CharacterSpriteSheet_Robert_Atkinson_1: -1008107477
-      CharacterSpriteSheet_Robert_Atkinson_13: 1981457708
-      CharacterSpriteSheet_Robert_Atkinson_16: 16552676
-      CharacterSpriteSheet_Robert_Atkinson_35: -151031639
+      CharacterSpriteSheetIST_21: -2040876937
+      CharacterSpriteSheetIST_23: 5012759
+      CharacterSpriteSheetIST_9: 706292632
+      CharacterSpriteSheetIST_19: 430073675
+      CharacterSpriteSheetIST_22: -89628617
+      CharacterSpriteSheetIST_31: 830587940
+      CharacterSpriteSheetIST_25: 2009932174
+      CharacterSpriteSheetIST_5: 1931222908
+      CharacterSpriteSheetIST_8: 916849117
+      CharacterSpriteSheetIST_10: -737583741
+      CharacterSpriteSheetIST_17: 994314202
+      CharacterSpriteSheetIST_24: 1591027263
+      CharacterSpriteSheetIST_32: -2086624113
+      CharacterSpriteSheetIST_18: -1096473330
+      CharacterSpriteSheetIST_26: -1087567094
+      CharacterSpriteSheetIST_16: -1749689796
+      CharacterSpriteSheetIST_12: -491833615
+      CharacterSpriteSheetIST_14: 964076428
+      CharacterSpriteSheetIST_29: 1839313377
+      CharacterSpriteSheetIST_0: 596226180
+      CharacterSpriteSheetIST_7: 1271908677
+      CharacterSpriteSheetIST_13: -856171526
+      CharacterSpriteSheetIST_35: -1296345965
+      CharacterSpriteSheetIST_20: -1694955334
+      CharacterSpriteSheetIST_15: -1845995223
+      CharacterSpriteSheetIST_30: 1362207013
+      CharacterSpriteSheetIST_1: -1961161507
+      CharacterSpriteSheetIST_27: 1836748934
+      CharacterSpriteSheetIST_11: 1184172334
+      CharacterSpriteSheetIST_28: -1689600657
+      CharacterSpriteSheetIST_34: -1561921092
+      CharacterSpriteSheetIST_3: 1705908530
+      CharacterSpriteSheetIST_4: 516366503
+      CharacterSpriteSheetIST_6: -1877606446
+      CharacterSpriteSheetIST_33: -730619525
+      CharacterSpriteSheetIST_2: -8285251
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
