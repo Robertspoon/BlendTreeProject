@@ -19,9 +19,24 @@ public class PlayerInteraction : MonoBehaviour
         }
     }
 
-    void CheckInteraction()
+    public void CheckInteraction()
     {
-        Debug.Log("This is a " + currentInterObj);
+        if (currentInterObjScript.interType == InteractionObject.InteractableType.info)
+        {
+            currentInterObjScript.Info();
+        }
+        else if (currentInterObjScript.interType == InteractionObject.InteractableType.pickup)
+        {
+            currentInterObjScript.Pickup();
+        }
+        else if (currentInterObjScript.interType == InteractionObject.InteractableType.dialogue)
+        {
+            currentInterObjScript.Dialogue();
+        }
+        else
+        {
+            currentInterObjScript.Nothing();
+        }
     }
 
     void OnTriggerStay2D(Collider2D other)
