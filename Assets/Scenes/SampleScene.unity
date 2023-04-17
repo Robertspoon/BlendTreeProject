@@ -41935,7 +41935,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7913720809098785713, guid: cd34b5df636f2d24e83d7f44a25fdc1a, type: 3}
       propertyPath: infoMessage
-      value: If you're reading this sign, you are reading this sign
+      value: Welcomme to Greenland
       objectReference: {fileID: 0}
     - target: {fileID: 7913720809098785715, guid: cd34b5df636f2d24e83d7f44a25fdc1a, type: 3}
       propertyPath: m_FlipX
